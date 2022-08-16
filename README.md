@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Project 8 - Machine learning Unsupervised  - 
+# Project 8 - Unsupervised Machine Learning  - 
 
 *Edgar - Mathieu*
 *[DA, Paris & 07/22]*
